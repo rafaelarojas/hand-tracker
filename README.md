@@ -1,2 +1,2 @@
 # hand-tracker
-Hand Tracker with Python and MediaPipe
+Contador com Python, OpenCv e MediaPipe
